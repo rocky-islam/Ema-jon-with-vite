@@ -1,0 +1,14 @@
+.cart{
+    background-color: rgba(255, 153, 0, 0.3);
+    height: 100%;
+    padding: 25px;
+    line-height: 50px;
+    
+}
+h6{
+    font-size: 20px;
+}
+.cart-details{
+    position: sticky;
+    top: 0;
+}
